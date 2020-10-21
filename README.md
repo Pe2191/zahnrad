@@ -1,16 +1,4 @@
 # zahnrad
-
-
-
-
-
-
-
-
-
-
-
-
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -24,16 +12,27 @@ namespace Zahnrad
         static void Main(string[] args)
         {
             Double a, b, c, d, e, h, f, g, i, j, k,  n;
+            
             Console.WriteLine("a=Modul,b=Zaehnezahl,c=Teilkreisdurchmesser,d=Breite,");
+            
             a = Convert.ToDouble(Console.ReadLine());
+            
             b = Convert.ToDouble(Console.ReadLine());
+            
             c = Convert.ToDouble(Console.ReadLine());
+            
             d = Convert.ToDouble(Console.ReadLine());
+            
             Console.WriteLine("e=Kopfspiel,f=zahnfusshoehe,g=zahnkopfhoehe");
+            
             e = 0.167 * a;
+            
             h = 2 * a + e;
+            
             f = a + e;
+            
             g = a;
+            
             Console.WriteLine("e={0}",e);
           
             Console.WriteLine("f={0}",f);
