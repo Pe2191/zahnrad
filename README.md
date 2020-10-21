@@ -1,16 +1,23 @@
 # zahnrad
 using System;
+
 using System.Collections.Generic;
+
 using System.Linq;
+
 using System.Text;
+
 using System.Threading.Tasks;
 
 namespace Zahnrad
 {
+
     class Program
     {
+    
         static void Main(string[] args)
         {
+        
             Double a, b, c, d, e, h, f, g, i, j, k,  n;
             
             Console.WriteLine("a=Modul,b=Zaehnezahl,c=Teilkreisdurchmesser,d=Breite,");
