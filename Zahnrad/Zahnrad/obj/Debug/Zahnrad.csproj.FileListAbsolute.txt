@@ -1,0 +1,7 @@
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\bin\Debug\Zahnrad.exe.config
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\bin\Debug\Zahnrad.exe
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\bin\Debug\Zahnrad.pdb
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\obj\Debug\Zahnrad.csprojAssemblyReference.cache
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\obj\Debug\Zahnrad.csproj.CoreCompileInputs.cache
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\obj\Debug\Zahnrad.exe
+C:\Users\chenpeng\source\repos\Zahnrad\Zahnrad\obj\Debug\Zahnrad.pdb
